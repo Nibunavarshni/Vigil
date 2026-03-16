@@ -1,0 +1,13 @@
+streamlit
+streamlit-lottie
+google-generativeai
+google-cloud-speech
+google-cloud-texttospeech
+google-auth
+google-auth-oauthlib
+google-api-python-client
+Pillow
+exif
+pandas
+fpdf
+requests

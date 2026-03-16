@@ -1,0 +1,29 @@
+# --- Security & Credentials ---
+# Never upload your service account keys or tokens
+credentials.json
+token_gmail.pickle
+token_calendar.pickle
+*.json
+*.pickle
+
+# --- Streamlit Secrets ---
+# Masks your local API keys and configurations
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# --- Python Environment ---
+# Prevents bulky temporary files and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- Project Specifics ---
+# Prevents your local SQLite database from being overwritten in the cloud
+vigil_core.db
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
