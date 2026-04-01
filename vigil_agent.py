@@ -439,7 +439,7 @@ def get_past_reports():
 # 6. BRAIN CONFIGURATION
 # ==========================================
 
-API_KEY = "AIzaSyDpznMWbVTFkj-zagQGwjthvNIzMFgA-Vk" 
+API_KEY = "YOUR API KEY HERE"
 os.environ["GOOGLE_GENAI_USE_V1"] = "1"
 genai.configure(api_key=API_KEY)
 try:
