@@ -40,16 +40,16 @@ json_path = "credentials.json"
 
 EMBEDDED_CREDS = {
   "type": "service_account",
-  "project_id": "project-707e889e-2bc0-4df3-867",
-  "private_key_id": "e0f4e108584e7da7e560b5848bd37febd7bfaa41",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPeXJDN5QF926h\nOWOXc1Z9m355ctVM6D4DFS+aT9WbYWmdCnMhhPODp2UfGR0BQ+sbMYwkBhDGy/5e\nnkEYNkpQ++F0tpzO6Dmp8oUzkiCIWp+RlKAdJmH86nBRK/zXJW39SGDmqguh8kCi\nx7H4QVJunKasKY+dEzp48G6FlnOcKPkjkbL7BbHHLjk1lDDLhNw4Bbdsuqob64UP\n7ggp6zZKCzsadl+nXaHW5sAH75X2okW6Yg9HeeU6TZrIRv79Ei7/6NPgoBUD2g5S\nHE4qHTGLXbKVXUqT8JmtLdEpkcUz/Lg/aqrZih1fGRcKf+tCGML9LKKYzhq4fQhx\n60OkhQN3AgMBAAECggEAQhfYsBQM+iecHQ0ork8GTwZRcIQF8jWLx7SgkQJ8tD6A\nhBAXpCZz4s1ZN+JqrIQD6gpLMBCkmIfUtTSp3Poyi4DqDiG8a2dsMzj4ePjEl1tz\nOM/Ff/PBxG20sQ8XwTwBwW2kvOaPxRvkvlZqWgEJLwaFTBQDVZESEAPb2X+Xvbd2\n6uDiV9q5rbtBePZUplq3DNTJizFqcdhxwnBJGTt1fMGXcrK2VbWGdDkzZsgfXje8\n8xXBv5whAUq/Bv73DCaC2iwFR9mUZQVpwbI13xdBGPmGswsSuzGbdaczN8h7HtSb\nFHf3osmcbcrPcXGhTk6tLxZqwatybFKo97vKkIvw2QKBgQDos2fVwCx+jkDVaBg4\nZdU/kVSEugOCPH5VeI4sRNsBxjoRp8E/p+fL345xRg2uHdLptdWZyKdwydhRI6z5\nrjSoNnNfWcqYI87fGGArfaOjay2E9bXxZfc0Gj4S2hKgEm4eNynvWNGKcV/qH9sY\nMt3HETCgDKZd8vd/4xhADNwdOQKBgQDkP2/PYIQ3xai9D67f6GBHJcozqTHK4XHp\nX9ba6eGuLphbDOss7dwivd78YBMDXWRBQhOuJcIuh0fiOOX+3n1OeLDHgur+CrlV\nCksqLjYfxWFiLYDcVjt7IJwX9VA1D84VS41jFzQS/oHQ1PnaLaimQAVUu4VWmFjt\nRF2/sx7WLwKBgQC6WanmuH4pXzw2aqUyzQIoZPb9T4Wtz0oQonmgpAeK9Tbdmq0c\nkBcF4mLM/Z/I9yNHfBGxlMnafhoYaGyGiuaqauibzGl8yvhJGtkxGu1n2lXaq3bn\n+ZMtC3L4X+EYhYinf8qdHgKZVqxN3h8lKKLoISBDbqyW0CPYBWVi7OlEvqQKBgFOy\nb228Fr/c22N4vMeejq+IS/1lrbyXrw3E9ySPXxJgQ74fnp17G54hwgMJt+8j7/9+\nG3lgnzQwp0ttUemD7K850plWiJVfmVZ1z9pH19EOsAcwaHBjrqwX6SVf72mFwixM\n6CvN9mqAqVnKv1QiKhXMpCfOG7cFZpaa20XQiR5BAoGAfnuPcvXI5Z9VKhqVfgtD\nYHJMvBG3Mfm0D2LV8NhFY95eR5cluwVw3MmXpyrSWgNBOcfO/SK1p2YrPHXq4jEr\nZHLRmw+nJ5oWvE4hPAHBcRFeS8jFl/uA6CPBEDzg/FF/iMC/M+ZPHQ1vlBkkEXuL\nE/q76NXzc5tbr+ONv+jqO10=\n-----END PRIVATE KEY-----\n",
-  "client_email": "vigil-873@project-707e889e-2bc0-4df3-867.iam.gserviceaccount.com",
-  "client_id": "100380016829311007769",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vigil-873%40project-707e889e-2bc0-4df3-867.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "project_id": ""
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n\----END PRIVATE KEY-----\n",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri:"",
+  "token_uri:"",
+  "auth_provider":
+  "client_url": "",
+  "universe_domaicreds:""
 }
 
 try:
